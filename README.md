@@ -10,7 +10,7 @@ Graduado em Matemática Aplicada, Analista de Dados pela EBAC e em busca de uma 
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Projeto-de-Parceria&theme=dark)](https://github.com/guerrinha77/Atividade-M18/blob/70000b763cad51f53ebeefaba161e9abb9489290/Projeto_de_parceria.ipynb)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Dashboard-Interativo&theme=dark)](https://lookerstudio.google.com/s/hKLOfHWVVt4)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Projeto-SQL&theme=dark)](https://github.com/guerrinha77/EBAC-Projeto-SQL/blob/7b1dab079f16402f4da972bc6151f816108cd361/projeto-3-ebac.ipynb)
 
