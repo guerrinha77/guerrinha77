@@ -10,7 +10,7 @@ Graduado em Matemática Aplicada, Analista de Dados pela EBAC e em busca de uma 
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Projeto-de-Parceria&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Projeto-de-Parceria&theme=dark)](https://github.com/guerrinha77/EBAC-Projeto-de-Parceria.git)
 
 
 ### Linguagens utilizadas
