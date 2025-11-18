@@ -1,16 +1,22 @@
-## Hi there 👋
+### Bem-vindo ao meu portfólio 👋
 
-<!--
-**guerrinha77/guerrinha77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### Gabriel Guerra
+Graduado em Matemática Aplicada, Analista de Dados pela EBAC e em busca de uma primeira oportuninade na área.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guerrinha77&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Projeto-de-Parceria.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guerrinha77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/gabrielguerra-analise-de-dados/)
