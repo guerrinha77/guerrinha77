@@ -17,7 +17,7 @@ Graduado em Matemática Aplicada, Analista de Dados pela EBAC e em busca de uma 
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guerrinha77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/top-langs/?username=guerrinha77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
