@@ -22,4 +22,3 @@ Graduado em Matemática Aplicada, Analista de Dados pela EBAC e em busca de uma 
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/gabrielguerra-analise-de-dados/)
-.
