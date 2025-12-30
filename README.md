@@ -3,11 +3,6 @@
 ###### Gabriel Guerra
 Graduado em Matemática Aplicada, Analista de Dados pela EBAC e em busca de uma primeira oportuninade na área.
 
-
-### Detalhes
-
-[![Anurag's GitHub stats](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api?username=guerrinha77&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Projetos
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=Dashboards&theme=dark)](https://github.com/guerrinha77/Dashboards/blob/95491d73b2134412281067980a54d1606e376cb8/README.md)
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Projeto-De-Parceria-01&theme=dark)](https://github.com/guerrinha77/EBAC-Projeto-De-Parceria-01/blob/3c2c52b3357df10ddac16d3283ff85eba481e0a7/Projeto_de_parceria.ipynb)
@@ -18,6 +13,10 @@ Graduado em Matemática Aplicada, Analista de Dados pela EBAC e em busca de uma 
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/top-langs/?username=guerrinha77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api?username=guerrinha77&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
