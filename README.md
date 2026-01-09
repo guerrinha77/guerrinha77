@@ -3,6 +3,26 @@
 ###### Gabriel Guerra
 Graduado em Matemática Aplicada, Analista de Dados pela EBAC e em busca de uma primeira oportuninade na área.
 
+Como analista de dados possuo as seguintes habilidades:
+
+Dashboards:
+• Power BI.
+• Looker Studio.
+
+Linguagens de programação:
+• SQL.
+• Python.
+• Linguagem R.
+
+Demais ferramentas e conhecimentos práticos:
+• ETL.
+• Big Data.
+• Power Query.
+• Computação em nuvem.
+• AWS (S3, Lambda, Athena, EventBrigde, Sage Maker, API Gateway...).
+• Bibliotecas Python (Seaborn, Pandas, NumPy, Matplotlib, Scikit-learn...).
+• Machine Learning (Clusterização, Regressão, Classificação e Séries Temporais).
+
 ### Projetos
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=Dashboards&theme=dark)](https://github.com/guerrinha77/Dashboards/blob/main/README.md)
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Projeto-De-Parceria-01&theme=dark)](https://github.com/guerrinha77/EBAC-Projeto-De-Parceria-01/blob/3c2c52b3357df10ddac16d3283ff85eba481e0a7/Projeto_de_parceria.ipynb)
