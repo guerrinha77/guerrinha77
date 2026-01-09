@@ -5,23 +5,23 @@ Graduado em Matemática Aplicada, Analista de Dados pela EBAC e em busca de uma 
 
 Como analista de dados possuo as seguintes habilidades: 
 
-Dashboards: 
-• Power BI. 
-• Looker Studio. 
- 
-Linguagens de programação: 
-• SQL. 
-• Python. 
-• Linguagem R. 
- 
-Demais ferramentas e conhecimentos práticos: 
-• ETL. 
-• Big Data. 
-• Power Query. 
-• Computação em nuvem. 
-• AWS (S3, Lambda, Athena, EventBrigde, Sage Maker, API Gateway...). 
-• Bibliotecas Python (Seaborn, Pandas, NumPy, Matplotlib, Scikit-learn...). 
-• Machine Learning (Clusterização, Regressão, Classificação e Séries Temporais). 
+Dashboards:  
+• Power BI.  
+• Looker Studio.  
+  
+Linguagens de programação:  
+• SQL.  
+• Python.  
+• Linguagem R.  
+  
+Demais ferramentas e conhecimentos práticos:  
+• ETL.  
+• Big Data.  
+• Power Query.  
+• Computação em nuvem.   
+• AWS (S3, Lambda, Athena, EventBrigde, Sage Maker, API Gateway...).  
+• Bibliotecas Python (Seaborn, Pandas, NumPy, Matplotlib, Scikit-learn...).  
+• Machine Learning (Clusterização, Regressão, Classificação e Séries Temporais).  
  
 ### Projetos
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=Dashboards&theme=dark)](https://github.com/guerrinha77/Dashboards/blob/main/README.md)
