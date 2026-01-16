@@ -27,7 +27,6 @@ Demais ferramentas e conhecimentos práticos:
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=Dashboards&theme=dark)](https://github.com/guerrinha77/Dashboards/blob/main/README.md)
 
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Projeto-De-Parceria-01&theme=dark)](https://github.com/guerrinha77/EBAC-Projeto-De-Parceria-01/blob/3c2c52b3357df10ddac16d3283ff85eba481e0a7/Projeto_de_parceria.ipynb)
-
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Projeto-SQL&theme=dark)](https://github.com/guerrinha77/EBAC-Projeto-SQL/blob/7b1dab079f16402f4da972bc6151f816108cd361/projeto-3-ebac.ipynb)
 
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Pipeline-de-dados-do-Telegram&theme=dark)](https://github.com/guerrinha77/EBAC-Pipeline-de-dados-do-Telegram/blob/552e4d707c5564f31fd38796e806bab281fa0708/ebac-pipeline-de-dados-do-telegram.ipynb)
