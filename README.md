@@ -18,7 +18,7 @@ Demais ferramentas e conhecimentos práticos:
 ♻️ ETL.  
 🎲 Big Data.  
 📊 Power Query.  
-☁️ Microsoft Azure.
+☁️ Microsoft Azure.  
 📦 AWS (S3, Lambda, Athena, EventBrigde, Sage Maker, API Gateway...).  
 📚 Bibliotecas Python (Seaborn, Pandas, NumPy, Matplotlib, Scikit-learn...).   
 📝 Machine Learning (Clusterização, Regressão, Classificação e Séries Temporais).  
