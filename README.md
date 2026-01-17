@@ -29,7 +29,7 @@ Demais ferramentas e conhecimentos práticos:
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Pipeline-de-dados-do-Telegram&theme=dark)](https://github.com/guerrinha77/EBAC-Pipeline-de-dados-do-Telegram/blob/552e4d707c5564f31fd38796e806bab281fa0708/ebac-pipeline-de-dados-do-telegram.ipynb)
 
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=Dashboards&theme=dark)](https://github.com/guerrinha77/Dashboards/blob/main/README.md)
-[![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=Certificados&theme=dark)](https://github.com/guerrinha77/Certificados/blob/9024e1a4073445bfc70f13d1d7fcdaa943be8e95/README.md)
+[![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=Certificados&theme=dark)](https://github.com/guerrinha77/Certificados/blob/31918c461b42f934b57debfe96749947a3998dbc/README.md)
 
 ### Linguagens utilizadas
 
