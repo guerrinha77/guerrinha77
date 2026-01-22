@@ -43,8 +43,8 @@ Demais ferramentas e conhecimentos práticos:
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/gabrielguerra-analise-de-dados/)
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='gabrielguerra1909@gmail.com' height='30'>]
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='55 996445338' height='30'>]
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='gabrielguerra1909@gmail.com' height='30'>](gabrielguerra1909@gmail.com)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='55 99644-5338' height='30'>](55 996445338)
 📩: gabrielguerra1909@gmail.com
 
 📞: 55 996445338
