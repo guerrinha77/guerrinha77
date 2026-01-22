@@ -23,11 +23,12 @@ Demais ferramentas e conhecimentos práticos:
 📚 Bibliotecas Python (Seaborn, Pandas, NumPy, Matplotlib, Scikit-learn...).   
 📝 Machine Learning (Clusterização, Regressão, Classificação e Séries Temporais).  
  
-### Projetos:
+### Principais Projetos:
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Projeto-De-Parceria-01&theme=dark)](https://github.com/guerrinha77/EBAC-Projeto-De-Parceria-01/blob/3c2c52b3357df10ddac16d3283ff85eba481e0a7/Projeto_de_parceria.ipynb)
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Projeto-SQL&theme=dark)](https://github.com/guerrinha77/EBAC-Projeto-SQL/blob/7b1dab079f16402f4da972bc6151f816108cd361/projeto-3-ebac.ipynb)
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Pipeline-de-dados-do-Telegram&theme=dark)](https://github.com/guerrinha77/EBAC-Pipeline-de-dados-do-Telegram/blob/552e4d707c5564f31fd38796e806bab281fa0708/ebac-pipeline-de-dados-do-telegram.ipynb)
 
+[![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=Projetos&theme=dark)](https://github.com/guerrinha77/Dashboards/blob/main/README.md)
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=Dashboards&theme=dark)](https://github.com/guerrinha77/Dashboards/blob/main/README.md)
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=Certificados&theme=dark)](https://github.com/guerrinha77/Certificados/blob/31918c461b42f934b57debfe96749947a3998dbc/README.md)
 
@@ -42,7 +43,8 @@ Demais ferramentas e conhecimentos práticos:
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/gabrielguerra-analise-de-dados/)
-
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='gabrielguerra1909@gmail.com' height='30'>]
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='55 996445338' height='30'>]
 📩: gabrielguerra1909@gmail.com
 
 📞: 55 996445338
