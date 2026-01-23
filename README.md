@@ -16,7 +16,7 @@ Linguagens de programação:
   
 Demais ferramentas e conhecimentos práticos:  
 ♻️ ETL.  
-📋 Excel.
+📋 Excel.  
 🎲 Big Data.  
 📊 Power Query.  
 ☁️ Microsoft Azure.  
