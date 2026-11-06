@@ -1,7 +1,7 @@
 ### Bem-vindo ao meu portfólio 👋
 
 ###### Gabriel Guerra
-Graduado em Matemática Aplicada, Analista de Dados pela EBAC, cursando Mestrado em Estatística pela UFRGS e em busca de uma primeira oportuninade na área de dados. 
+Graduado em Matemática Aplicada e Analista de Dados pela EBAC.
 
 Como analista de dados possuo as seguintes habilidades: 
 
