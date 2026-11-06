@@ -25,7 +25,7 @@ Demais ferramentas e conhecimentos práticos:
 📝 Machine Learning (Clusterização, Regressão, Classificação e Séries Temporais).  
  
 ### Principais Projetos:
-[![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Projeto-De-Parceria-01&theme=dark)](https://github.com/guerrinha77/EBAC-Projeto-De-Parceria-01/blob/3c2c52b3357df10ddac16d3283ff85eba481e0a7/Projeto_de_parceria.ipynb)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Projeto-De-Parceria-01&theme=dark)](https://github.com/guerrinha77/EBAC-Projeto-De-Parceria-01/blob/3c2c52b3357df10ddac16d3283ff85eba481e0a7/Projeto_de_parceria.ipynb)
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Projeto-SQL&theme=dark)](https://github.com/guerrinha77/EBAC-Projeto-SQL/blob/625ea46128d769c2d229402b0b14937cb3917bca/projeto-3-ebac.ipynb)
 [![Readme Card](https://github-readme-stats-ten-phi-0dq24pza3k.vercel.app/api/pin/?username=guerrinha77&repo=EBAC-Pipeline-de-dados-do-Telegram&theme=dark)](https://github.com/guerrinha77/EBAC-Pipeline-de-dados-do-Telegram/blob/552e4d707c5564f31fd38796e806bab281fa0708/ebac-pipeline-de-dados-do-telegram.ipynb)
 
